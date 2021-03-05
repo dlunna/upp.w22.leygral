@@ -27,8 +27,7 @@
   <?php include ('./dotk/01header/02begajoso/menu-pegajoso.html'); ?>
 
   <main>
-    <a href="./estados_financieros.php">1 Estados financieros</a>
-    <a href="./estados_presupuestales.php">2 Estados presupuestales</a>
+    <?php include ('./dotk/05main/contenido.html'); ?>    
 
 
     <div class="container marketing">
